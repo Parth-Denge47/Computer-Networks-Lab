@@ -1,0 +1,22 @@
+# compiled programs
+*.exe
+*.o
+*.out
+tcp_server
+tcp_client
+udp_server
+udp_client
+sliding_window
+leaky_bucket
+token_bucket
+distance_vector
+
+# python
+__pycache__/
+*.pyc
+
+# editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
